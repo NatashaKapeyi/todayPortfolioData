@@ -30,9 +30,9 @@
         },
         {
             "id": 2,
-            "year": "2021 - 2023",
-            "description": "BCom Economics and Finance (Incomplete Degree)",
-            "place": "University of Cape Town"
+            "time": "2021 - 2023",
+            "text": "BCom Economics and Finance (Incomplete Degree)",
+            "location": "University of Cape Town"
            
         },
         {
