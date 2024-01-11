@@ -47,10 +47,6 @@
             "experience": "I have completed a 2 year programme at Life Choice's Leaders' Quest, that has been carrying me since high school. I have empeeccable leadesrship skills that I have utilized and has enhanced and helped me achieve excellency in work I have done. Public speaking , work etiquette, story telling and team work and development are skills which I had obtained through the programme"
         },
         {
-            "title": "API",
-            "experience": "In case we want to secure, identify, and authorize access to a user on a specific resource, we need to have an API, which is a glue between the front end and back end. We can set up a lot of features or logic, such as middleware, database configuration, JSON web tokens, and many more. For the past 7 years, I have been working on APIs using Django and ExpressJS."
-        },
-        {
             "title": "Tutoring ",
             "experience": "One of my goals is to become a proffesor for something I specialize in , I have been a tutor since high school in commercial subjects and through IKamva Youth programme, I have been awarded with excellency and appreaciation of the impact I have on our yout and community"
         }
