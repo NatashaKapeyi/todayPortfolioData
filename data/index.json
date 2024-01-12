@@ -102,7 +102,7 @@
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.ibb.co/4j4D0VY/2024-01-12-5.png",
+            "image": "https://i.ibb.co/q0JK5gL/2024-01-12-5.png",
             "gitHub": "https://github.com/NatashaKapeyi/Calculator-JS.git",
             "netlify": "https://nzkcalculculator.netlify.app"
         },
