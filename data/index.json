@@ -88,24 +88,45 @@
         {
             "name": "To-do List",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.postimg.cc/tTF7RMr1/todoList.png",
-            "gitHub": "https://github.com/codjoelmayer/todoApp_js.git",
-            "netlify": "https://joel-todo-list.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://magnificent-horse-5c61c0.netlify.app"
         },
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "https://i.postimg.cc/vH8q91JB/reg-Exp-Calculator.png",
-            "gitHub": "https://github.com/codjoelmayer/regExpCalculator.git",
-            "netlify": "https://regexpcalculator.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://nzkcalculculator.netlify.app"
         },
         
         {
+            "name": "Ecommerce",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://nzkvansecommerce.netlify.app"
+        },
+        {
             "name": "NZK Portfolio",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.postimg.cc/W4m3tkbb/js-Portfolio.png",
-            "gitHub": "https://github.com/codjoelmayer/PortfolioWithBSAndJS.git",
-            "netlify": "https://joeljsportfolio.netlify.app/"
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://nzkportfolio.netlify.app"
+        },
+        {
+            "name": "BMI",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://nzkbmi.netlify.app"
+        },
+        {
+            "name": "Minutes to Seconds",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "image": "",
+            "gitHub": "",
+            "netlify": "https://nzkminutestoseconds.netlify.app"
         }
     ]
 
