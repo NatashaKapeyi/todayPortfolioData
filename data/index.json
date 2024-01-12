@@ -60,22 +60,10 @@
     ],
     "testimonials": [
         {
-            "name": "Tashreeq Lee",
-            "surname": "Collegue",
-            "quotes": "Natasha Kapeyi has great work ethic and is always willing to go the extra mile to ensure that the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
-            "profile": "https://i.ibb.co/18m1Lgm/IMG-1956.jpg"
-        },
-        {
-            "name": "Heather Mtuedwa",
-            "surname": "Collegue",
-            "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
-            "profile": "https://i.ibb.co/K9n2sVw/2024-01-12-7.png"
-        },
-        {
-            "name": "Andiswa Sinxo",
-            "surname": "Software Developer",
-            "quotes": "Natasha Zikhona is a very passionate and hard working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can outcome any challenges that she faces",
-            "profile": "https://i.ibb.co/d2mBZNj/369340286-1053651049010299-2901649408411811024-n.jpg"
+            "name": "Joel Mukanya",
+            "surname": "Lecture",
+            "quotes":"Natasha is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub",
+            "profile": "https://i.ibb.co/PxtfZLZ/joel2.jpg"
         },
         {
             "name": "Ntokozo Sithebe",
@@ -84,16 +72,28 @@
             "profile": "https://i.ibb.co/jMJvJmw/2024-01-12-6.png"
         },
         {
-            "name": "Joel Mukanya",
-            "surname": "Lecture",
-            "quotes":"Natasha is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub",
-            "profile": "https://i.ibb.co/PxtfZLZ/joel2.jpg"
+            "name": "Heather Mtuedwa",
+            "surname": "Collegue",
+            "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
+            "profile": "https://i.ibb.co/K9n2sVw/2024-01-12-7.png"
+        },
+        {
+            "name": "Tashreeq Lee",
+            "surname": "Collegue",
+            "quotes": "Natasha Kapeyi has great work ethic and is always willing to go the extra mile to ensure that the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
+            "profile": "https://i.ibb.co/cbhXyqy/IMG-1956-1.jpg"
+        },
+        {
+            "name": "Andiswa Sinxo",
+            "surname": "Software Developer",
+            "quotes": "Natasha Zikhona is a very passionate and hard working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can outcome any challenges that she faces",
+            "profile": "https://i.ibb.co/d2mBZNj/369340286-1053651049010299-2901649408411811024-n.jpg"
         },
         {
             "name": "Chuma Tshaka",
             "surname": "UCT BCom MS Student",
             "quotes": "Natasha is a hard-working student who shows commitment and dedication to her studies. Despite any hardships faced , she shows resilience and actively works towards her goals. This says a lot about her character and how she is able to bounce back from tough times",
-            "profile": "https://i.ibb.co/bBfH51X/49212673-771145026553032-5618756317767270400-n.jpg"
+            "profile": "https://i.ibb.co/KNTZcFM/49212673-771145026553032-5618756317767270400-n.jpg"
         }
     ],
     "projects":[
