@@ -88,44 +88,44 @@
         {
             "name": "To-do List",
             "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/yswsY5W/2024-01-12.png",
+            "gitHub": "https://github.com/NatashaKapeyi/To-do-list.git",
             "netlify": "https://magnificent-horse-5c61c0.netlify.app"
         },
         {
             "name": "Calculator",
             "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/4j4D0VY/2024-01-12-5.png",
+            "gitHub": "https://github.com/NatashaKapeyi/Calculator-JS.git",
             "netlify": "https://nzkcalculculator.netlify.app"
         },
         
         {
             "name": "Ecommerce",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/NLXsJzS/LANDING-PAGE.png",
+            "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
             "netlify": "https://nzkvansecommerce.netlify.app"
         },
         {
             "name": "NZK Portfolio",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/12kSJZK/Mac-Book-Air-1.png",
+            "gitHub": "https://github.com/NatashaKapeyi/NatashaKapeyi-Portfolio.git",
             "netlify": "https://nzkportfolio.netlify.app"
         },
         {
             "name": "BMI",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/R01JgG1/2024-01-12-1.png",
+            "gitHub": "https://github.com/NatashaKapeyi/BMI-Calculator.git",
             "netlify": "https://nzkbmi.netlify.app"
         },
         {
             "name": "Minutes to Seconds",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "",
-            "gitHub": "",
+            "image": "https://i.ibb.co/tPbrQPP/2024-01-12-2.png",
+            "gitHub": "https://github.com/NatashaKapeyi/minutes-to-seconds.git",
             "netlify": "https://nzkminutestoseconds.netlify.app"
         }
     ]
