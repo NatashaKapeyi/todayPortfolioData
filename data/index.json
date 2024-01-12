@@ -88,14 +88,14 @@
         {
             "name": "NZK Portfolio",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.ibb.co/12kSJZK/Mac-Book-Air-1.png",
+            "image": "https://i.ibb.co/Kh7WdYp/Frame-3.png",
             "gitHub": "https://github.com/NatashaKapeyi/NatashaKapeyi-Portfolio.git",
             "netlify": "https://nzkportfolio.netlify.app"
         },
         {
             "name": "Ecommerce",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
-            "image": "https://i.ibb.co/NLXsJzS/LANDING-PAGE.png",
+            "image": "https://i.ibb.co/mRDw0H3/Rectangle-28.png",
             "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
             "netlify": "https://nzkvansecommerce.netlify.app"
         },
