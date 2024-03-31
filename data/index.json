@@ -18,30 +18,30 @@
         }    
     ],
     "about": [
-        " I am a very determined, hardworking individual with an ability to solve problems and a skill to work with numbers obtained through a range of courses I had taken throughout the years. I am an alumnus of the Leaders' Quest programme offered by Life Choices, a part-time tutor at the IKamva Youth programme and currently enrolled to Life Choices Coding Academy for 12 months. As a result, I have been equipped with valuable experience in organising paperwork, administrating, leading, solving complex problems and mostly working with people through being a good communicator and a volunteer.My fascination with technology increased after I completed an information systems mandatory course at University of Cape Town.Through this, I am interested in enhancing my experience and skills professionally by securing a position in the service/tech industry.."
+        " I am a very determined, hardworking individual with an ability to solve problems and a skill to work with numbers obtained through a range of courses I had taken throughout the years. I am an alumnus of the Leaders' Quest programme offered by Life Choices, a part-time tutor at the IKamva Youth programme and currently enrolled to Life Choices Coding Academy for 12 months. As a result, I have been equipped with valuable experience in organising paperwork, administrating, leading, solving complex problems and mostly working with people through being a good communicator and a volunteer. My fascination with technology increased after I completed an information systems course at the University of Cape Town. Through this, I am interested in enhancing my experience and skills professionally by securing a position in the service/tech industry.."
     ],
     "education": [
         {
             "id": 1,
             "year": "2023 - Currently",
-            "description": "Full stack developing course",
+            "description": "Full stack(Coding) course",
             "place": "Life Choices"
            
         },
         {
             "id": 2,
-            "time": "2021 - 2023",
-            "text": "BCom Economics and Finance (Incomplete Degree)",
-            "location": "University of Cape Town"
+            "year": "2021 - 2023",
+            "description": "BCom Economics and Finance (Incomplete Degree)",
+            "place": "University of Cape Town"
            
         },
         {
-            "id": 1,
-            "annual": "2017-2020",
-            "detail": " Matric exemption - Bachelor passes with 3 distinctions in Economics, Business Studies and Life Orientation.Top 10 of the best Business Studies and Economics Students in the Western Cape Province.",
-            "where": "ID MKIZE HS",
-            "type": "certificate",
-            "certificate": ""
+            "id": 3,
+            "year": "2017-2020",
+            "description": " Matric exemption - Bachelor passes with 3 distinctions in Economics, Business Studies and Life Orientation.Top 10 of the best Business Studies and Economics Students in the Western Cape Province.",
+            "place": "ID MKIZE HS"
+            
+            
         }
     ],
     "skills": [
@@ -51,42 +51,42 @@
         },
         {
             "title": "Leadership",
-            "experience": "I have completed a 2 year programme at Life Choice's Leaders' Quest, that has been carrying me since high school."
+            "experience": "I have completed a 2-year programme at Life Choice's Leaders' Quest, which has been carrying me since high school."
         },
         {
             "title": "Tutoring ",
-            "experience": "One of my goals is to become a proffesor for something I specialize in , I have been a tutor since high school in commercial subjects and through IKamva Youth programme, I have been awarded with excellency and appreaciation of the impact I have on our yout and community"
+            "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects and through IKamva Youth programme, I have been awarded with excellency and appreaciation of the impact I have on our yout and community"
         }
     ],
     "testimonials": [
         {
             "name": "Joel Mukanya",
             "surname": "Lecture",
-            "quotes":"Natasha is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub",
+            "quotes": "Natasha is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating with others and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub",
             "profile": "https://i.ibb.co/PxtfZLZ/joel2.jpg"
         },
         {
             "name": "Ntokozo Sithebe",
-            "surname": "Collegue",
+            "surname": "Colleague",
             "quotes": "In the time that I have known her, Natasha Kapeyi has proven herself to be exceptional at whatever she sets out to do, she has a strong aptitude for coding and a deep passion for learning and discovering new skills",
             "profile": "https://i.ibb.co/jMJvJmw/2024-01-12-6.png"
         },
         {
             "name": "Heather Mtuedwa",
-            "surname": "Collegue",
+            "surname": "Colleague",
             "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
             "profile": "https://i.ibb.co/K9n2sVw/2024-01-12-7.png"
         },
         {
             "name": "Tashreeq Lee",
-            "surname": "Collegue",
+            "surname": "Colleague",
             "quotes": "Natasha Kapeyi has great work ethic and is always willing to go the extra mile to ensure that the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
             "profile": "https://i.ibb.co/cbhXyqy/IMG-1956-1.jpg"
         },
         {
             "name": "Andiswa Sinxo",
             "surname": "Software Developer",
-            "quotes": "Natasha Zikhona is a very passionate and hard working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can outcome any challenges that she faces",
+            "quotes": "Natasha Zikhona is a very passionate and hard-working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can outcome any challenges that she faces",
             "profile": "https://i.ibb.co/d2mBZNj/369340286-1053651049010299-2901649408411811024-n.jpg"
         },
         {
@@ -99,13 +99,13 @@
     "projects":[
         {
             "name": "NZK Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "description": "I built my portfolio using HTML 5, CSS, and Bootstrap.",
             "image": "https://i.ibb.co/Kh7WdYp/Frame-3.png",
             "gitHub": "https://github.com/NatashaKapeyi/NatashaKapeyi-Portfolio.git",
             "netlify": "https://nzkportfolio.netlify.app"
         },
         {
-            "name": "Ecommerce",
+            "name": "E-commerce",
             "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
             "image": "https://i.ibb.co/mRDw0H3/Rectangle-28.png",
             "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
