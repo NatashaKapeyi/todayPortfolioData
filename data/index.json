@@ -39,22 +39,25 @@
             "id": 3,
             "year": "2017-2020",
             "description": " Matric exemption - Bachelor passes with 3 distinctions in Economics, Business Studies and Life Orientation.Top 10 of the best Business Studies and Economics Students in the Western Cape Province.",
-            "place": "ID MKIZE HS"
+            "place": "I.D. Mkize B.C.M High School"
             
             
         }
     ],
     "skills": [
         {
-            "title": "Web Development",
-            "experience": "I have  experience in web development using the following technologies: HTML, CSS, Bootstrap, and Javascript. I am still building applications using the mentioned technologies."
+            "title": "Technical Skills",
+            "Years": "2021-Currently",
+            "experience": "I have  experience in web development using the following technologies:<i class="bi bi-filetype-html"></i>, CSS, Bootstrap, and Javascript. I am still building applications using the mentioned technologies."
         },
         {
-            "title": "Leadership",
-            "experience": "I have completed a 2-year programme at Life Choice's Leaders' Quest, which has been carrying me since high school."
+            "title": "Personal & Professional Development",
+            "Years": "2019-Currently"
+            "experience": "I have completed a 2-year programme at Life Choice's Leaders' Quest, which has been carrying me since high school. When I was enrolled on Life Choices coding academy, I was introduced to more personal and professional skills. Public speaking , Design thinking and etc. "
         },
         {
             "title": "Tutoring ",
+             "Years": "2019-2023",
             "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects and through the IKamva Youth programme, I have been awarded excellence and appreciation for the impact I have on our youth and community"
         }
     ],
