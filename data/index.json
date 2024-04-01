@@ -55,7 +55,7 @@
         },
         {
             "title": "Tutoring ",
-            "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects and through IKamva Youth programme, I have been awarded with excellency and appreaciation of the impact I have on our yout and community"
+            "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects and through the IKamva Youth programme, I have been awarded excellence and appreciation for the impact I have on our youth and community"
         }
     ],
     "testimonials": [
@@ -74,25 +74,25 @@
         {
             "name": "Heather Mtuedwa",
             "surname": "Colleague",
-            "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with a high level of professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
+            "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with high professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
             "profile": "https://i.ibb.co/K9n2sVw/2024-01-12-7.png"
         },
         {
             "name": "Tashreeq Lee",
             "surname": "Colleague",
-            "quotes": "Natasha Kapeyi has great work ethic and is always willing to go the extra mile to ensure that the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
+            "quotes": "Natasha Kapeyi has a great work ethic and is always willing to go the extra mile to ensure the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
             "profile": "https://i.ibb.co/cbhXyqy/IMG-1956-1.jpg"
         },
         {
             "name": "Andiswa Sinxo",
             "surname": "Software Developer",
-            "quotes": "Natasha Zikhona is a very passionate and hard-working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can outcome any challenges that she faces",
+            "quotes": "Natasha Zikhona is a very passionate and hard-working person that I know. She is eager to learn new things to explore her knowledge. Solving problems and being a team player are part of her soft skills. Her journey of becoming a Software Developer proves the fact that she is a problem solver and she can overcome any challenges that she faces",
             "profile": "https://i.ibb.co/d2mBZNj/369340286-1053651049010299-2901649408411811024-n.jpg"
         },
         {
             "name": "Chuma Tshaka",
             "surname": "UCT BCom MS Student",
-            "quotes": "Natasha is a hard-working student who shows commitment and dedication to her studies. Despite any hardships faced , she shows resilience and actively works towards her goals. This says a lot about her character and how she is able to bounce back from tough times",
+            "quotes": "Natasha is a hard-working student who shows commitment and dedication to her studies. Despite hardships, she shows resilience and actively works towards her goals. This says a lot about her character and how she can bounce back from tough times",
             "profile": "https://i.ibb.co/KNTZcFM/49212673-771145026553032-5618756317767270400-n.jpg"
         }
     ],
@@ -113,7 +113,7 @@
         },
         {
             "name": "Calculator",
-            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. In order to validate my input element, I make use of regular expressions.",
+            "description": "This is my calculator app, and I built it using HTML 5, CSS 3, Javascript, and Bootstrap's icon. To validate my input element, I make use of regular expressions.",
             "image": "https://i.ibb.co/q0JK5gL/2024-01-12-5.png",
             "gitHub": "https://github.com/NatashaKapeyi/Calculator-JS.git",
             "netlify": "https://nzkcalculculator.netlify.app"
