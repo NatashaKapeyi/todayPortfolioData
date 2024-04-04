@@ -27,7 +27,7 @@
             "year": "2023 - Currently",
             "description": "Full stack(Coding) course",
             "place": "Life Choices",
-            "hoverImage": "https://i.ibb.co/HTP1PxB/IMG-20201023-WA0030.jpg"
+            "hoverImage": "https://i.ibb.co/7rKzD64/6cfc761e-ad04-477a-b39a-d7465f5e71a6.jpg"
            
         },
         {
@@ -35,7 +35,8 @@
             "IMG": "https://i.ibb.co/HTqZVvL/university-of-cape-town-uct2534-removebg-preview.png",
             "year": "2021 - 2023",
             "description": "BCom Economics and Finance (Incomplete Degree)",
-            "place": "University of Cape Town"
+            "place": "University of Cape Town",
+            "hoverImage": "https://i.ibb.co/Z1kDjq3/IMG-20210611-WA0013.jpg"
            
         },
         {
@@ -43,7 +44,8 @@
             "IMG": "https://i.ibb.co/CP5J3GD/Logo-Final-1.png",
             "year": "2017-2020",
             "description": " Matric exemption - Bachelor passes with 3 distinctions in Economics, Business Studies and Life Orientation.Top 10 of the best Business Studies and Economics Students in the Western Cape Province.",
-            "place": "I.D. Mkize B.C.M High School"
+            "place": "I.D. Mkize B.C.M High School",
+            "hoverImage": "https://i.ibb.co/RPYN14h/IMG-20201023-WA0030.jpg"
             
             
         }
