@@ -115,11 +115,11 @@
             "netlify": "https://nzkportfolio.netlify.app"
         },
         {
-            "name": "E-commerce",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
-            "image": "https://i.ibb.co/QPVz2mv/Frame-13.png",
-            "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
-            "netlify": "https://nzkvansecommerce.netlify.app"
+            "name": "BMI",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "image": "https://i.ibb.co/R01JgG1/2024-01-12-1.png",
+            "gitHub": "https://github.com/NatashaKapeyi/BMI-Calculator.git",
+            "netlify": "https://nzkbmi.netlify.app"
         },
         {
             "name": "Calculator",
@@ -137,11 +137,11 @@
         },
         
         {
-            "name": "BMI",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
-            "image": "https://i.ibb.co/R01JgG1/2024-01-12-1.png",
-            "gitHub": "https://github.com/NatashaKapeyi/BMI-Calculator.git",
-            "netlify": "https://nzkbmi.netlify.app"
+            "name": "E-commerce",
+            "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
+            "image": "https://i.ibb.co/QPVz2mv/Frame-13.png",
+            "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
+            "netlify": "https://nzkvansecommerce.netlify.app"
         },
         {
             "name": "Minutes to Seconds",
