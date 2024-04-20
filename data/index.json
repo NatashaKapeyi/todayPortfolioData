@@ -60,18 +60,18 @@
         {
             "title": "Personal & Professional Development",
             "Years": "2019-Currently",
-            "experience": "I have completed a 2-year programme at Life Choice's Leaders' Quest, which has been carrying me since high school. I was introduced to more personal and professional skills when I was enrolled in Life Choices coding academy. Public speaking, Design thinking, etc. "
+            "experience": "I have completed a 2-year program at Life Choice's Leaders' Quest, which has been carrying me since high school. I was introduced to more personal and professional skills when I was enrolled in Life Choices coding academy. Public speaking, Design thinking, etc. "
         },
         {
             "title": "Tutoring ",
             "Years": "2019-2023",
-            "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects and through the IKamva Youth programme, I have been awarded excellence and appreciation for the impact I have on our youth and community"
+            "experience": "One of my goals is to become a professor for something I specialize in, I have been a tutor since high school in commercial subjects, and through the IKamva Youth programme, I have been awarded excellence and appreciation for the impact I have on our youth and community"
         }
     ],
     "testimonials": [
         {
             "name": "Joel Mukanya",
-            "surname": "Lecture",
+            "surname": " LC Academy Lecture",
             "quotes": "Natasha is a creative, and well-behaved individual who always prioritizes her work. She excels in collaborating and has gained proficiency in HTML5, CSS, and Bootstrap. Including Git and GitHub",
             "profile": "https://i.ibb.co/bvKVMwc/Frame-14.png"
         },
@@ -83,13 +83,13 @@
         },
         {
             "name": "Sivuyisiwe Peter",
-            "surname": "Colleague",
+            "surname": "Full Stack Developer",
             "quotes": "What makes Natasha Kapeyi different from the rest is her unwavering commitment to excellence approaching every project with high professionalism and dedication. Her attention to detail and ability to work collaboratively makes her an invaluable member of any team",
             "profile": "https://i.ibb.co/PQMQCCL/IMG-5940.jpg"
         },
         {
             "name": " Jay-donn Hendricks",
-            "surname": "LC STUDIO Intern",
+            "surname": "LC Studio Intern",
             "quotes": "Natasha Kapeyi has a great work ethic and is always willing to go the extra mile to ensure the job is done right. She is a great problem solver and has an eye for detail that makes her stand out from the rest and also is highly organized, reliable, and always willing to lend a helping hand",
             "profile": "https://i.ibb.co/LrBy1mk/IMG-5938.jpg"
         },
@@ -116,7 +116,7 @@
         },
         {
             "name": "BMI",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "description": "I built BMI using HTML 5, CSS, Bootstrap, and Javascript.",
             "image": "https://i.ibb.co/R01JgG1/2024-01-12-1.png",
             "gitHub": "https://github.com/NatashaKapeyi/BMI-Calculator.git",
             "netlify": "https://nzkbmi.netlify.app"
@@ -129,23 +129,23 @@
             "netlify": "https://nzkcalculculator.netlify.app"
         },
         {
-            "name": "To-do List",
-            "description": "I built this application using HTML 5, CSS, and Javascript.",
-            "image": "https://i.ibb.co/yswsY5W/2024-01-12.png",
-            "gitHub": "https://github.com/NatashaKapeyi/To-do-list.git",
-            "netlify": "https://magnificent-horse-5c61c0.netlify.app"
+            "name": "Node JS Project",
+            "description": "I built this website using Node JS applications, Vue JS MySQL, HTML 5, CSS, and Javascript. It was a duo project and I had focussed mainly on the frontend",
+            "image": "https://i.ibb.co/LtH260y/Frame-7.png",
+            "gitHub": "https://github.com/Fireshadow111/node-project.git",
+            "netlify": "https://node-project-b28ae.web.app/"
         },
         
         {
-            "name": "E-commerce",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap and Javascript.",
+            "name": "Javascript E-commerce",
+            "description": "I built this website using HTML 5, CSS, Bootstrap, and Javascript.",
             "image": "https://i.ibb.co/QPVz2mv/Frame-13.png",
             "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
             "netlify": "https://nzkvansecommerce.netlify.app"
         },
         {
             "name": "Minutes to Seconds",
-            "description": "I built my portfolio using HTML 5, CSS, Bootstrap.",
+            "description": "I built this app using HTML 5, CSS, Bootstrap.",
             "image": "https://i.ibb.co/tPbrQPP/2024-01-12-2.png",
             "gitHub": "https://github.com/NatashaKapeyi/minutes-to-seconds.git",
             "netlify": "https://nzkminutestoseconds.netlify.app"
