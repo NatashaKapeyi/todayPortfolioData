@@ -108,8 +108,22 @@
     ],
     "projects":[
         {
+            "name": "Node JS Project",
+            "description": "I built this website using Node JS applications, Vue JS MySQL, HTML 5, CSS, and Javascript. It was a duo project and I had focussed mainly on the frontend",
+            "image": "https://i.ibb.co/LtH260y/Frame-7.png",
+            "gitHub": "https://github.com/Fireshadow111/node-project.git",
+            "netlify": "https://node-project-b28ae.web.app/"
+        },
+        {
+            "name": "Javascript E-commerce",
+            "description": "I built this website using HTML 5, CSS, Bootstrap, and Javascript.",
+            "image": "https://i.ibb.co/QPVz2mv/Frame-13.png",
+            "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
+            "netlify": "https://nzkvansecommerce.netlify.app"
+        },
+        {
             "name": "NZK Portfolio",
-            "description": "I built my portfolio using HTML 5, CSS, and Bootstrap.",
+            "description": "I built my first portfolio using HTML 5, CSS, and Bootstrap.",
             "image": "https://i.ibb.co/Kh7WdYp/Frame-3.png",
             "gitHub": "https://github.com/NatashaKapeyi/NatashaKapeyi-Portfolio.git",
             "netlify": "https://nzkportfolio.netlify.app"
@@ -128,21 +142,7 @@
             "gitHub": "https://github.com/NatashaKapeyi/Calculator-JS.git",
             "netlify": "https://nzkcalculculator.netlify.app"
         },
-        {
-            "name": "Node JS Project",
-            "description": "I built this website using Node JS applications, Vue JS MySQL, HTML 5, CSS, and Javascript. It was a duo project and I had focussed mainly on the frontend",
-            "image": "https://i.ibb.co/LtH260y/Frame-7.png",
-            "gitHub": "https://github.com/Fireshadow111/node-project.git",
-            "netlify": "https://node-project-b28ae.web.app/"
-        },
         
-        {
-            "name": "Javascript E-commerce",
-            "description": "I built this website using HTML 5, CSS, Bootstrap, and Javascript.",
-            "image": "https://i.ibb.co/QPVz2mv/Frame-13.png",
-            "gitHub": "https://github.com/NatashaKapeyi/The-Vault.git",
-            "netlify": "https://nzkvansecommerce.netlify.app"
-        },
         {
             "name": "Minutes to Seconds",
             "description": "I built this app using HTML 5, CSS, Bootstrap.",
